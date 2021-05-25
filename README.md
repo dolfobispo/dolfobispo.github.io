@@ -8,3 +8,5 @@ eu tinha esquecido de falar o que eu queria falar
 #Existe um arquivo com a lista de linguagens que eu programo
 
 #Adiciona BugFix
+
+#Testando se envia para o git
